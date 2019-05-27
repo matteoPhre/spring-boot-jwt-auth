@@ -1,0 +1,3 @@
+INSERT INTO User (id, firstname, lastname, username, password, salary, age) VALUES (1, 'Alex','Knr', 'alex123','$2a$10$a8YPmLiBkixZ36548UnH6.avK5IjeAw2YclNREcrQQOwt1.L.GLfW', 3456, 33);
+INSERT INTO User (id, firstname, lastname, username, password, salary, age)  VALUES (2, 'Tom', 'Moth', 'tommy', '$2a$10$.DEIkOmgd9v4G9iLZdRxtO/5ua.MsX.bP2TBXzlNt3kEYCOWibpTa', 78910, 44);
+INSERT INTO User (id, firstname, lastname, username, password, salary, age)  VALUES (3, 'Ad', 'Dams', 'Addams', '$2a$10$m2gPI/IuFOANh/VihZ2NIeNGZfZu5VcfQhAdfLJvBLi0/5E1CyuiK', 4321, 12);
